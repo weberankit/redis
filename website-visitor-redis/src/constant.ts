@@ -1,0 +1,1 @@
+export  const SITE_BANNER_KEY = "chai:site:banner";
